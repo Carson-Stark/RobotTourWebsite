@@ -2,7 +2,7 @@
 
 ![Sequence 05 00_00_51_17 Still018](https://github.com/user-attachments/assets/7fe9227a-5521-4cc1-a453-9d3bc50f48fa)
 
-A web platform for designing and deploying autonomous robot tours at UT Austin. Allows students, faculty, and staff to create custom tour itineraries using an interactive map, with real-time cloud syncing and automatic integration with ROS-based robots like Dobby. Built with React and Firebase.
+A website enabling easy design of autonomous robot tours at UT Austin. Users can create tours by selecting locations on a map, adding descriptions, and generating a structured itinerary. The site uses a Firebase backend for real-time cloud storage, with tours automatically synced and downloaded to the robot for execution.
 
 ## Features
 - Interactive map interface for designing tour routes and adding location descriptions
