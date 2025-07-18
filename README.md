@@ -1,12 +1,15 @@
 # Dobby Tour Website
 
-Dobby Tour Website is a web and mobile application designed to provide users with an interactive and seamless experience for exploring landmarks and tours. This project is built using React Native and Firebase.
+![Sequence 05 00_00_51_17 Still018](https://github.com/user-attachments/assets/7fe9227a-5521-4cc1-a453-9d3bc50f48fa)
+
+A web platform for designing and deploying autonomous robot tours at UT Austin. Allows students, faculty, and staff to create custom tour itineraries using an interactive map, with real-time cloud syncing and automatic integration with ROS-based robots like Dobby. Built with React and Firebase.
 
 ## Features
-- User authentication (Login/Signup)
-- Interactive map view for landmarks
-- Tour management and booking
-- Responsive design for web and mobile
+- Interactive map interface for designing tour routes and adding location descriptions
+- Responsive UI with panning, zooming, and landmark placement
+- Real-time data storage and retrieval using Firebase
+- Automatic syncing with robots for tour execution
+- User authentication for managing and editing tours
 
 ## Prerequisites
 Before setting up the project, ensure you have the following installed:
