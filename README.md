@@ -4,6 +4,8 @@
 
 A website enabling easy design of autonomous robot tours at UT Austin. Users can create tours by selecting locations on a map, adding descriptions, and generating a structured itinerary. The site uses a Firebase backend for real-time cloud storage, with tours automatically synced and downloaded to the robot for execution.
 
+- **Original Project Date:** June 2024
+
 ## Features
 - Interactive map interface for designing tour routes and adding location descriptions
 - Responsive UI with panning, zooming, and landmark placement
